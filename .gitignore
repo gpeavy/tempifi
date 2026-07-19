@@ -1,0 +1,17 @@
+# Home Assistant Custom Component - tempi.fi
+
+# Temp files and local data
+*.csv
+T_*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE and tool metadata
+.agents/
+.gemini/
+
+# Python build/cache files
+__pycache__/
+*.pyc
